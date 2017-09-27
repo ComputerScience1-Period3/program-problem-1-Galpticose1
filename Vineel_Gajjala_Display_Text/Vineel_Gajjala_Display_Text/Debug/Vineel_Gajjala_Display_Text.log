@@ -1,0 +1,3 @@
+﻿Take_In_Data.obj : error LNK2005: "void __cdecl pause(void)" (?pause@@YAXXZ) already defined in DisplayText.obj
+Take_In_Data.obj : error LNK2005: _main already defined in DisplayText.obj
+C:\Users\233920\Desktop\Computer Science 1\Vineel_Gajjala_Display_Text\Debug\Vineel_Gajjala_Display_Text.exe : fatal error LNK1169: one or more multiply defined symbols found
